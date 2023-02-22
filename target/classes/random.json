@@ -1,0 +1,35 @@
+[
+  {
+    "data": {
+      "lvl": 3,
+      "code": "A00",
+      "name": "Choléra"
+    },
+    "children": [
+      {
+        "data": {
+          "lvl": 4,
+          "code": "A000",
+          "name": "A Vibrio cholerae 01, biovar cholerae"
+        },
+        "children": []
+      },
+      {
+        "data": {
+          "lvl": 4,
+          "code": "A001",
+          "name": "A Vibrio cholerae 01, biovar El Tor"
+        },
+        "children": []
+      },
+      {
+        "data": {
+          "lvl": 4,
+          "code": "A009",
+          "name": "Choléra, sans précision"
+        },
+        "children": []
+      }
+    ]
+  }
+]

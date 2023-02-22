@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Illness" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <module name="Illness" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
